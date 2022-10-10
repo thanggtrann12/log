@@ -1,0 +1,23 @@
+{
+   "name": "Log",
+   "keywords": "log, arduinolog, logging",
+   "description": "A simple and efficient logging library for debuging",
+   "homepage": "https://github.com/thanggtrann12/log",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/thanggtrann12/log.git"
+   },
+   "version": "1.0.0",
+   "authors": {
+     "name": "Thangg Trann 12",
+     "url": "https://github.com/thanggtrann12/"
+   },
+   "exclude": [
+     
+   ],
+   "frameworks": "*",
+   "platforms": "*",
+   "build": {
+     "libArchive": false
+   }
+ }
